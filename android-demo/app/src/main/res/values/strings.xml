@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">仅读取 DeepSeek 屏幕可见文字节点；其他应用仅用于隐藏浮窗，不读取其文本。确认预览后才发送给语音服务器。</string>
+</resources>

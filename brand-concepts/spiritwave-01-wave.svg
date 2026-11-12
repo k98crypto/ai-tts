@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#F7F9F7"/>
+  <g transform="translate(120 92)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 34C116 0 51 5 29 38 3 77 41 105 82 112c46 8 82 19 69 59-12 37-76 52-122 25" stroke="#123B3A" stroke-width="19"/>
+    <path d="M16 143c27-23 50-24 72-5 19 17 39 18 67-5" stroke="#10A99A" stroke-width="12"/>
+    <circle cx="161" cy="133" r="7" fill="#F0785D" stroke="none"/>
+  </g>
+  <text x="390" y="204" font-family="Aptos, Arial, sans-serif" font-size="64" font-weight="600" fill="#123B3A">SpiritWave</text>
+  <text x="395" y="267" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="500" fill="#42706D">灵汐</text>
+  <path d="M395 296h62" stroke="#10A99A" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="370" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22" fill="#647572">01  灵动波形 · 让智能如潮汐般流动</text>
+</svg>
